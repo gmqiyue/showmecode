@@ -1,2 +1,1 @@
-# showmecode
-RT: Show Me Code
+# Show Me Code
